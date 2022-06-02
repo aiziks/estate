@@ -21,6 +21,7 @@
    "reqd": 1,
    "unique": 1
   },
+  
   {
    "fieldname": "phone",
    "fieldtype": "Data",
