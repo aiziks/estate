@@ -1,6 +1,8 @@
 from ast import Pass
 import frappe
 from frappe.model.document import Document
+
+
 class Property(Document):
 	pass
 	# def after_insert(self):
